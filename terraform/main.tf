@@ -1,1 +1,3 @@
-resource "azurerm_resource_group" $
+resource "azurerm_resource_group" var.resource_group {
+  name = 
+}
